@@ -6,7 +6,7 @@
 	"title": "50/50 Image Text",
 	"category": "widgets",
 	"icon": "smiley",
-	"description": "Example block scaffolded with Create Block tool.",
+	"description": "A custom block that displays content in a 50/50 split layout with an image on one side and text on the other.",
 	"example": {},
 	"supports": {
 		"html": false
