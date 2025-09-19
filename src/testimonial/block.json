@@ -4,7 +4,7 @@
 	"name": "create-block/testimonial",
 	"version": "0.1.0",
 	"title": "Single Testimonial",
-	"category": "text",
+	"category": "design",
 	"icon": "smiley",
 	"description": "Display a full width, single customer testimonial with text and author details.",
 	"example": {},

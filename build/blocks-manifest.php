@@ -7,7 +7,7 @@ return array(
 		'name' => 'create-block/fiftyfifty-img-txt',
 		'version' => '0.1.0',
 		'title' => '50/50 Image Text',
-		'category' => 'widgets',
+		'category' => 'design',
 		'icon' => 'smiley',
 		'description' => 'A custom block that displays content in a 50/50 split layout with an image on one side and text on the other.',
 		'example' => array(
@@ -28,7 +28,7 @@ return array(
 		'name' => 'create-block/testimonial',
 		'version' => '0.1.0',
 		'title' => 'Single Testimonial',
-		'category' => 'text',
+		'category' => 'design',
 		'icon' => 'smiley',
 		'description' => 'Display a full width, single customer testimonial with text and author details.',
 		'example' => array(
